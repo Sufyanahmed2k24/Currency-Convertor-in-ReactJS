@@ -1,6 +1,6 @@
 import { useState } from "react"
 import Input from "./components/Input"
-import useCurrencyInfo from "./hooks/useCurrecyInfo"
+import useCurrencyInfo from "./hooks/useCurrencyInfo"
 
 
 const App = () => {
